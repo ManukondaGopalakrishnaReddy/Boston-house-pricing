@@ -1,4 +1,4 @@
-# Boston House Price Prediction
+# Boston House Price Prediction using simple regression
 
 Software and tools requirements
 
